@@ -1,10 +1,10 @@
 # Business Understanding
 
-# Menentukan Tujuan Bisnis
+ Menentukan Tujuan Bisnis
 
-# Membuat Rencana Proyek
+ Membuat Rencana Proyek
 
-# Menilai situasi dan kondisi
+ Menilai situasi dan kondisi
 
 ```{bibliography}
 ```
