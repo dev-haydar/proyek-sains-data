@@ -14,10 +14,7 @@ kernelspec:
 
 # data understanding
 
-1. Mengumpulkan Data Awal
-2. Mendeskripsikan data
-3. Eksplorasi data/menyelediki data
-4. verifikasi qualitas data
+
 ```
-jupyter-book myst init path/to/markdownfile.md
+
 ```
